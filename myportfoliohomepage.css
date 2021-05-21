@@ -1,0 +1,93 @@
+.wrapper{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.faviconlogo{
+    position: absolute;
+    left: 5%;
+    width: 100%;
+    height: 100%;
+    margin-right: 0;
+    
+    float: left;
+
+
+}
+.top-div{
+    position: absolute;
+    width: 100%;
+    height : 10%;
+    padding: 0;
+    
+}.myportfolio{
+    position: absolute;
+    left: 7%;
+    font-family: 'Roboto', sans-serif;
+}
+.top-left-div{
+    position : absolute;
+    left : 70%;
+    
+}
+li{
+    background-color: #005792;
+    display: inline-block;
+    padding: 8px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    
+    overflow: hidden;
+   
+}
+.middle-div{
+    width: 100%;
+    height: max-content;
+    background-color: paleturquoise;
+    margin-top: 3%;
+    padding-top: 5%;
+    position: absolute;
+    top: 50%;
+}
+.Intro{
+    position: absolute;
+    width: 30%;
+    float: left;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+.mypic1-img{
+    float: right;
+    margin-right: 30%;
+    width: 20%;
+    height: 40%;
+    
+    
+}
+.button {
+    background-color: #005792; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  a{
+      text-decoration:  none ;
+      color: white;
+     
+  }
+  .bottom-div{
+      position: absolute;
+     top: 500px;
+  }
+  .bottom{
+      font-size: xx-large;
+      margin: 50px;
+      margin-left: 200px;;
+      float: left;
+  }
